@@ -15,7 +15,7 @@ body {
   
  
    .helipad{  
-    background-image: url('../../assets/img/cover2.jpg');
+    background-image: url('../../assets/img/cover3.jpg');
     min-height: 90vh; 
     background-repeat: no-repeat;
     background-position: center;
@@ -30,7 +30,7 @@ body {
 
     .helipad .heli-inner{
     min-height: 90vh;
-    background-color: rgba(1, 1, 15, 0.85);
+    background-color: rgba(0, 0, 0, 0.1);
     }
 
 section#bridge1{
